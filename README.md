@@ -1,7 +1,7 @@
 # Font Scouts en Gidsen Vlaanderen
 
 ## About
-This font contains all the icons designd en used by Scouts en Gidsen Vlaanderen in Belguim.
+This font contains all the icons designed en used by Scouts en Gidsen Vlaanderen in Belguim.
 The demo folder shows which icons are included.
 
 ## Installation
